@@ -1,7 +1,6 @@
 import _ from 'lodash';
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
-import MyComponent from './components/MyComponent'
 class App extends Component {
   constructor(props) {
     super(props);
@@ -9,9 +8,9 @@ class App extends Component {
 
   render() {
     return (
-      <div>
-        <MyComponent />
-      </div>
+      <h1>
+        {  `React + Redux = 🤷` }
+      </h1>
     );
   }
 }
