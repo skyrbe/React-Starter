@@ -1,12 +1,12 @@
 {
-  "name": "react-redux-starter",
-  "version": "1.0.0",
-  "description": "Simple starter package for Redux with React and Babel support",
+  "name": "react-starter",
+  "author": "Harsha Venkatram",
+  "version": "0.0.1",
+  "description": "Simple starter package for React with Redux and Babel support. Made with love for JS",
   "main": "index.js",
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js"
   },
-  "author": "",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.2.1",
@@ -21,6 +21,6 @@
     "react": "^0.14.3",
     "react-dom": "^0.14.3",
     "react-redux": "^4.0.0",
-    "redux": "^3.0.4"
+    "redux": "^3.0.4",
   }
 }
