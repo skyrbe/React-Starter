@@ -1,7 +1,7 @@
 {
   "name": "react-starter",
   "author": "Harsha Venkatram",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Simple starter package for React with Redux and Babel support. Made with love for JS",
   "main": "index.js",
   "scripts": {
